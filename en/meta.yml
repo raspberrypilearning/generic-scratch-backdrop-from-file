@@ -1,12 +1,12 @@
-title: generic-scratch-backdrop-from-file
+title: Loading a backdrop from a file
 hero_image: images/banner.png
-description: generic-scratch-backdrop-from-file description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: load a backdrop from a file in Scratch
+original_url: 
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
-ingredient: false
-interests: "jokes/pranks, music/sound"
-technologies: "javascript python scratch, lasers more lasers 3d printing wheels, pygame, python, Raspberry Pi, scratch, SenseHAT, Sense HAT"
+ingredient: true
+interests: 
+technologies: "scratch"
 steps:
-  - title: Step one
+  - title: Load a backdrop from a file

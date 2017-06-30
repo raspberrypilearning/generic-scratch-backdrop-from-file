@@ -1,4 +1,4 @@
-- Click on the icon to the right of the Sprites pane, to **Upload a backdrop from file**.
+- Click on the icon to the right of the **Sprites** pane to **Upload a backdrop from file**.
 
 ![upload from file](images/backdrop-from-file.png)
 
